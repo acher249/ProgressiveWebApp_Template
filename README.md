@@ -5,6 +5,8 @@ Yahoo weather api is broken but thats not important. fill with whatever content.
 
 https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/
 
+Folder structure is very important for deployment.. follow the structure in this repo.
+
 ## To Deploy with Firebase
 
 - Create a Firebase account at https://firebase.google.com/console/
@@ -18,4 +20,6 @@ https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/
     - File Already Exists.. overwrite? NO
   
 - Finally, deploy the app to Firebase: firebase deploy
+
+
 
