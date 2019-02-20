@@ -22,4 +22,6 @@ Folder structure is very important for deployment.. follow the structure in this
 - Finally, deploy the app to Firebase: firebase deploy
 
 
+Once deployed the user can "Add to home screen" from mobile browser
+
 
