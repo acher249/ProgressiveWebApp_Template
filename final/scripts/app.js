@@ -16,8 +16,15 @@
 (function() {
   'use strict';
 
+  // (Adam) Get Json
+  $.getJSON('/data/shoppers.json', function(data) {
 
-  
+    var shoppersTemplate = $('#shoppersTemplate').html();
+    var shoppersScript = Handlebars.compile(shoppersTemplate);
+
+    $('#shoppers-content').append(shoppersScript(data));
+  });
+
 
   // TODO add service worker code here
   if ('serviceWorker' in navigator) {

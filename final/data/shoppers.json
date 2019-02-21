@@ -1,0 +1,1671 @@
+{
+    "shoppers" :
+      [
+        {  
+          "adid":"0502",
+          "initials":"atk",
+          "name":"Aaron King",
+          "extension":"x502",
+          "directPhone":"6469329935",
+          "picture":"sites/default/files/pictures/picture-442.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0631",
+          "initials":"ajc",
+          "name":"Adam Chernick",
+          "extension":"x631",
+          "directPhone":"6467983315",
+          "picture":"sites/default/files/pictures/picture-668.jpg",
+          "desk":"N040"
+       },
+       {  
+          "adid":"0572",
+          "initials":"aal",
+          "name":"Adam Letcher",
+          "extension":"x572",
+          "directPhone":"6463622325",
+          "picture":"sites/default/files/pictures/picture-512.jpg",
+          "desk":"S031_DESK"
+       },
+       {  
+          "adid":"0308",
+          "initials":"acg",
+          "name":"Adamo Garritano",
+          "extension":"x308",
+          "directPhone": "2128899005",
+          "picture":"sites/default/files/pictures/picture-252.jpg",
+          "desk":"S069_DESK"
+       },
+       {  
+          "adid":"0000",
+          "initials":"aaf",
+          "name":"Aida Faty",
+          "extension":"0",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-456.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0614",
+          "initials":"agd",
+          "name":"Alexander Dobbin",
+          "extension":"",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-652.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0626",
+          "initials":"amd",
+          "name":"Alexandra Donovan",
+          "extension":"x626",
+          "directPhone":"9172106863",
+          "picture":"sites/default/files/pictures/picture-664.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0487",
+          "initials":"acw",
+          "name":"Alexis Wachtel",
+          "extension":"x487",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-425.jpg",
+          "desk":"N080_DESK"
+       },
+       {  
+          "adid":"0518",
+          "initials":"amc",
+          "name":"Alina Chmut",
+          "extension":"x518",
+          "directPhone":"6467983314",
+          "picture":"sites/default/files/pictures/picture-458.jpg",
+          "desk":"S046_DESK"
+       },
+       {  
+          "adid":"0595",
+          "initials":"aam",
+          "name":"Amanda Masip",
+          "extension":"",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-633.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0172",
+          "initials":"ams",
+          "name":"Amir Shahrokhi",
+          "extension":"x172",
+          "directPhone":"9172106820",
+          "picture":"sites/default/files/pictures/picture-151.jpg",
+          "desk":"S052_DESK"
+       },
+       {  
+          "adid":"0442",
+          "initials":"akl",
+          "name":"Amy Lee",
+          "extension":"x442",
+          "directPhone":"6467983301",
+          "picture":"sites/default/files/pictures/picture-379.jpg",
+          "desk":"N059_DESK"
+       },
+       {  
+          "adid":"0630",
+          "initials":"aic",
+          "name":"Ana Cruz",
+          "extension":"x630",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-667.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0170",
+          "initials":"av",
+          "name":"Andrea Vittadini",
+          "extension":"x170",
+          "directPhone":"9172106821",
+          "picture":"sites/default/files/pictures/picture-71.jpg",
+          "desk":"N005_DESK"
+       },
+       {  
+          "adid":"0110",
+          "initials":"aft",
+          "name":"Andreia Teixeira",
+          "extension":"x110",
+          "directPhone":"91721068658",
+          "picture":"sites/default/files/pictures/picture-157.jpg",
+          "desk":"N014_DESK"
+       },
+       {  
+          "adid":"0556",
+          "initials":"axb",
+          "name":"Andrew Broddle",
+          "extension":"x556",
+          "directPhone":"6468623113",
+          "picture":"sites/default/files/pictures/picture-494.jpg",
+          "desk":"S055_DESK"
+       },
+       {  
+          "adid":"0428",
+          "initials":"add",
+          "name":"Andrew Daley",
+          "extension":"x428",
+          "directPhone":"6467983311",
+          "picture":"sites/default/files/pictures/picture-364.jpg",
+          "desk":"S002_DESK"
+       },
+       {  
+          "adid":"0558",
+          "initials":"als",
+          "name":"Andrew Sullivan",
+          "extension":"x558",
+          "directPhone":"917 210 6829",
+          "picture":"sites/default/files/pictures/picture-497.jpg",
+          "desk":"S038_DESK"
+       },
+       {  
+          "adid":"0123",
+          "initials":"aet",
+          "name":"Angelica T. Baccon",
+          "extension":"x123",
+          "directPhone":"9172106812",
+          "picture":"sites/default/files/pictures/picture-11.jpg",
+          "desk":"N067_DESK"
+       },
+       {  
+          "adid":"0169",
+          "initials":"aml",
+          "name":"Anne Landau",
+          "extension":"x169",
+          "directPhone":"9172106823",
+          "picture":"sites/default/files/pictures/picture-146.jpg",
+          "desk":"S081_DESK"
+       },
+       {  
+          "adid":"0277",
+          "initials":"anr",
+          "name":"Anneli Rice",
+          "extension":"x277",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-210.jpg",
+          "desk":"S057_DESK"
+       },
+       {  
+          "adid":"0275",
+          "initials":"akk",
+          "name":"Annie Kwon",
+          "extension":"x275",
+          "directPhone":"6465099411",
+          "picture":"sites/default/files/pictures/picture-213.jpg",
+          "desk":"N019_DESK"
+       },
+       {  
+          "adid":"0426",
+          "initials":"ajb",
+          "name":"Anthony Barone",
+          "extension":"x426",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-365.jpg",
+          "desk":"S043_DESK"
+       },
+       {  
+          "adid":"0493",
+          "initials":"amh",
+          "name":"Audrey Hughes",
+          "extension":"x493",
+          "directPhone":"6468623115",
+          "picture":"sites/default/files/pictures/picture-431.jpg",
+          "desk":"S085_DESK"
+       },
+       {  
+          "adid":"0166",
+          "initials":"as",
+          "name":"Ayumi Sugiyama",
+          "extension":"x166",
+          "directPhone":"9172106826",
+          "picture":"sites/default/files/pictures/picture-7.jpg",
+          "desk":"S083_DESK"
+       },
+       {  
+          "adid":"0422",
+          "initials":"bam",
+          "name":"Berardo Matalucci",
+          "extension":"x422",
+          "directPhone":"9178033650",
+          "picture":"sites/default/files/pictures/picture-359.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0409",
+          "initials":"bee",
+          "name":"Beth Eckels",
+          "extension":"x409",
+          "directPhone":"6463622385",
+          "picture":"sites/default/files/pictures/picture-342.jpg",
+          "desk":"S024_DESK"
+       },
+       {  
+          "adid":"0596",
+          "initials":"bmz",
+          "name":"Bethanie Zucker",
+          "extension":"x596",
+          "directPhone":"6468621960",
+          "picture":"sites/default/files/pictures/picture-634.jpg",
+          "desk":"N057_DESK"
+       },
+       {  
+          "adid":"0334",
+          "initials":"bwg",
+          "name":"Brad Groff",
+          "extension":"x334",
+          "directPhone":"9172077715",
+          "picture":"sites/default/files/pictures/picture-273.jpg",
+          "desk":"S066_DESK"
+       },
+       {  
+          "adid":"0278",
+          "initials":"brd",
+          "name":"Brian R. Darling",
+          "extension":"x278",
+          "directPhone":"9172106811",
+          "picture":"sites/default/files/pictures/picture-201.jpg",
+          "desk":"N030_DESK"
+       },
+       {  
+          "adid":"0509",
+          "initials":"clc",
+          "name":"Carol Ciccarelli",
+          "extension":"x509",
+          "directPhone":"9172942727",
+          "picture":"sites/default/files/pictures/picture-448.jpg",
+          "desk":"S073_DESK"
+       },
+       {  
+          "adid":"0147",
+          "initials":"ccy",
+          "name":"Caroline C. Young",
+          "extension":"x147",
+          "directPhone":"9172106830",
+          "picture":"sites/default/files/pictures/picture-14.jpg",
+          "desk":"N070_DESK"
+       },
+       {  
+          "adid":"0521",
+          "initials":"cbr",
+          "name":"Carter Read",
+          "extension":"x521",
+          "directPhone":"4013395780",
+          "picture":"sites/default/files/pictures/picture-463.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0124",
+          "initials":"cej",
+          "name":"Cathy E. Jones",
+          "extension":"x124",
+          "directPhone":"9172106832",
+          "picture":"sites/default/files/pictures/picture-36.jpg",
+          "desk":"N007_DESK"
+       },
+       {  
+          "adid":"0503",
+          "initials":"cjw",
+          "name":"Charlie Wynter",
+          "extension":"",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-441.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0464",
+          "initials":"cah",
+          "name":"Chelsea Hyduk",
+          "extension":"x464",
+          "directPhone":"6463622352",
+          "picture":"sites/default/files/pictures/picture-402.jpg",
+          "desk":"N028_DESK"
+       },
+       {  
+          "adid":"0101",
+          "initials":"crs",
+          "name":"Chris R. Sharples",
+          "extension":"x101",
+          "directPhone":"9172106801",
+          "picture":"sites/default/files/pictures/picture-23.jpg",
+          "desk":"N063_DESK"
+       },
+       {  
+          "adid":"0584",
+          "initials":"cwm",
+          "name":"Christopher Morse",
+          "extension":"x584",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-525.jpg",
+          "desk":"N043_DESK"
+       },
+       {  
+          "adid":"0171",
+          "initials":"cam",
+          "name":"Clinton A. Miller",
+          "extension":"x171",
+          "directPhone":"9172106835",
+          "picture":"sites/default/files/pictures/picture-40.jpg",
+          "desk":"N017_DESK"
+       },
+       {  
+          "adid":"0610",
+          "initials":"cks",
+          "name":"Coco Ke Shi",
+          "extension":"x610",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-649.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0104",
+          "initials":"cds",
+          "name":"Corie Sharples",
+          "extension":"x104",
+          "directPhone":"9172106804",
+          "picture":"sites/default/files/pictures/picture-22.png",
+          "desk":"N065_DESK"
+       },
+       {  
+          "adid":"0259",
+          "initials":"cmr",
+          "name":"Craig Rosman",
+          "extension":"x259",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-187.jpg",
+          "desk":"S040_DESK"
+       },
+       {  
+          "adid":"0184",
+          "initials":"dlg",
+          "name":"Dana Getman",
+          "extension":"x184",
+          "directPhone":"9172106837",
+          "picture":"sites/default/files/pictures/picture-64.jpg",
+          "desk":"N068_DESK"
+       },
+       {  
+          "adid":"0511",
+          "initials":"dyw",
+          "name":"Dana Wu",
+          "extension":"x511",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-452.jpg",
+          "desk":"S053_DESK"
+       },
+       {  
+          "adid":"0602",
+          "initials":"dbp",
+          "name":"Daniel Palma",
+          "extension":"x602",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-640.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0561",
+          "initials":"dpt",
+          "name":"Daniel Toretsky",
+          "extension":"x561",
+          "directPhone":"9172106839",
+          "picture":"sites/default/files/pictures/picture-501.jpg",
+          "desk":"N020_DESK"
+       },
+       {  
+          "adid":"0535",
+          "initials":"dmt",
+          "name":"Danielle Tellez",
+          "extension":"x535",
+          "directPhone":"6463622407",
+          "picture":"sites/default/files/pictures/picture-474.jpg",
+          "desk":"S079_DESK"
+       },
+       {  
+          "adid":"0622",
+          "initials":"dcw",
+          "name":"Danielle Winfield",
+          "extension":"x622",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-658.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0298",
+          "initials":"dda",
+          "name":"Danny Abalos",
+          "extension":"x298",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-230.jpg",
+          "desk":"S006_DESK"
+       },
+       {  
+          "adid":"0573",
+          "initials":"sjl",
+          "name":"David Lee",
+          "extension":"x573",
+          "directPhone":"5404060496",
+          "picture":"sites/default/files/pictures/picture-514.jpg",
+          "desk":"S028_DESK"
+       },
+       {  
+          "adid":"0532",
+          "initials":"dag",
+          "name":"Diego Gonzalez",
+          "extension":"x532",
+          "directPhone":"7866148505",
+          "picture":"sites/default/files/pictures/picture-471.jpg",
+          "desk":"S012_DESK"
+       },
+       {  
+          "adid":"0459",
+          "initials":"eyd",
+          "name":"Edison Ding",
+          "extension":"x459",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-400.jpg",
+          "desk":"S014_DESK"
+       },
+       {  
+          "adid":"0621",
+          "initials":"edr",
+          "name":"Eduardo Roman",
+          "extension":"x621",
+          "directPhone":"9292348249",
+          "picture":"sites/default/files/pictures/picture-659.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0541",
+          "initials":"edp",
+          "name":"Edward Palka",
+          "extension":"0",
+          "directPhone":"2674962442",
+          "picture":"sites/default/files/pictures/picture-479.jpg",
+          "desk":"N082_DESK"
+       },
+       {  
+          "adid":"0465",
+          "initials":"emj",
+          "name":"Edwin M. Jupp",
+          "extension":"0",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-403.jpg",
+          "desk":"N009_DESK"
+       },
+       {  
+          "adid":"0158",
+          "initials":"esm",
+          "name":"Elliot Mistur",
+          "extension":"x158",
+          "directPhone":"9172106790",
+          "picture":"sites/default/files/pictures/picture-148.jpg",
+          "desk":"S075_DESK"
+       },
+       {  
+          "adid":"0347",
+          "initials":"eld",
+          "name":"Elsie Dedecker",
+          "extension":"x347",
+          "directPhone":"6463622400",
+          "picture":"sites/default/files/pictures/picture-297.jpg",
+          "desk":"N051_DESK"
+       },
+       {  
+          "adid":"0616",
+          "initials":"emp",
+          "name":"Emily Prusak",
+          "extension":"x616",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-654.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0177",
+          "initials":"ejf",
+          "name":"Emma Fowler",
+          "extension":"x177",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-159.jpg",
+          "desk":"S046_DESK"
+       },
+       {  
+          "adid":"0290",
+          "initials":"eah",
+          "name":"Eric Hoffman",
+          "extension":"x290",
+          "directPhone":"9172105772",
+          "picture":"sites/default/files/pictures/picture-220.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0589",
+          "initials":"eem",
+          "name":"Erik Martinez",
+          "extension":"x589",
+          "directPhone":"9172106886",
+          "picture":"sites/default/files/pictures/picture-529.jpg",
+          "desk":"S023_DESK"
+       },
+       {  
+          "adid":"0243",
+          "initials":"etg",
+          "name":"Erik T. Gerlach",
+          "extension":"x243",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-173.jpg",
+          "desk":"S016_DESK"
+       },
+       {  
+          "adid":"0401",
+          "initials":"fec",
+          "name":"Felicia Chan",
+          "extension":"x401",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-333.jpg",
+          "desk":"N037_DESK"
+       },
+       {  
+          "adid":"0319",
+          "initials":"fgs",
+          "name":"Foteinos Soulos",
+          "extension":"x319",
+          "directPhone":"9178105775",
+          "picture":"sites/default/files/pictures/picture-261.jpg",
+          "desk":"S086_DESK"
+       },
+       {  
+          "adid":"0463",
+          "initials":"gws",
+          "name":"Gawon Shin",
+          "extension":"x463",
+          "directPhone":"9172106814",
+          "picture":"sites/default/files/pictures/picture-398.jpg",
+          "desk":"S070_DESK"
+       },
+       {  
+          "adid":"0138",
+          "initials":"ejp",
+          "name":"Gene Pasquarelli",
+          "extension":"x138",
+          "directPhone":"9172106781",
+          "picture":"sites/default/files/pictures/picture-70.jpg",
+          "desk":"N075_DESK"
+       },
+       {  
+          "adid":"0388",
+          "initials":"gbb",
+          "name":"Geoffrey Bell",
+          "extension":"x388",
+          "directPhone":"9172106791",
+          "picture":"sites/default/files/pictures/picture-317.jpg",
+          "desk":"N042_DESK"
+       },
+       {  
+          "adid":"0569",
+          "initials":"gtg",
+          "name":"Giselle Grant",
+          "extension":"x569",
+          "directPhone":"6463622375",
+          "picture":"sites/default/files/pictures/picture-506.jpg",
+          "desk":"N073_DESK"
+       },
+       {  
+          "adid":"0462",
+          "initials":"gab",
+          "name":"Graham Billings",
+          "extension":"x462",
+          "directPhone":"8609705447",
+          "picture":"sites/default/files/pictures/picture-384.jpg",
+          "desk":"S032_DESK"
+       },
+       {  
+          "adid":"0354",
+          "initials":"ggk",
+          "name":"Greg Kwan",
+          "extension":"x354",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-294.png",
+          "desk":"N071_DESK"
+       },
+       {  
+          "adid":"0102",
+          "initials":"gap",
+          "name":"Gregg A. Pasquarelli",
+          "extension":"x102",
+          "directPhone":"9172106802",
+          "picture":"sites/default/files/pictures/picture-19.jpg",
+          "desk":"N072_DESK"
+       },
+       {  
+          "adid":"0513",
+          "initials":"hef",
+          "name":"Hailey Fulton",
+          "extension":"x513",
+          "directPhone":"6467983308",
+          "picture":"sites/default/files/pictures/picture-454.jpg",
+          "desk":"N061_DESK"
+       },
+       {  
+          "adid":"0434",
+          "initials":"hsf",
+          "name":"Hilary Fitzpatrick",
+          "extension":"x434",
+          "directPhone":"9176098716",
+          "picture":"sites/default/files/pictures/picture-374.jpg",
+          "desk":"N040_DESK"
+       },
+       {  
+          "adid":"0617",
+          "initials":"hmc",
+          "name":"Hye-min Cha",
+          "extension":"x617",
+          "directPhone":"9172106885",
+          "picture":"sites/default/files/pictures/picture-655.jpg",
+          "desk":""
+       },
+       {  
+          "adid":"0111",
+          "initials":"io",
+          "name":"Ildiko Ozsvath",
+          "extension":"x111",
+          "directPhone":"9172106870",
+          "picture":"sites/default/files/pictures/picture-122.jpg",
+          "desk":"N069_DESK"
+       },
+       {  
+          "adid":"0540",
+          "initials":"idr",
+          "name":"Ilya Rakhlin",
+          "extension":"",
+          "directPhone":"2014505702",
+          "picture":"sites/default/files/pictures/picture-480.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0335",
+          "initials":"ijk",
+          "name":"Isaiah King",
+          "extension":"x335",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-279.jpg",
+          "desk":"S031_DESK"
+       },
+       {  
+          "adid":"0551",
+          "initials":"ivv",
+          "name":"Istvan van Vianen",
+          "extension":"x551",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-489.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0396",
+          "initials":"jcc",
+          "name":"Jack Coble",
+          "extension":"x396",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-336.jpg",
+          "desk":"S001_DESK"
+       },
+       {  
+          "adid":"0127",
+          "initials":"jac",
+          "name":"Jacob A. Chandler",
+          "extension":"x127",
+          "directPhone":"9172105783",
+          "picture":"sites/default/files/pictures/picture-79.jpg",
+          "desk":"S049_DESK"
+       },
+       {  
+          "adid":"0550",
+          "initials":"jzb",
+          "name":"Jae Han Bae",
+          "extension":"x550",
+          "directPhone":"4122906089",
+          "picture":"sites/default/files/pictures/picture-510.jpg",
+          "desk":"N010_DESK"
+       },
+       {  
+          "adid":"0438",
+          "initials":"jar",
+          "name":"Janice A. Rosario",
+          "extension":"x438",
+          "directPhone":"6463622326",
+          "picture":"sites/default/files/pictures/picture-116.jpg",
+          "desk":"N039_DESK"
+       },
+       {  
+          "adid":"0414",
+          "initials":"jmb",
+          "name":"Jason Brook",
+          "extension":"x414",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-349.jpg",
+          "desk":"N033_DESK"
+       },
+       {  
+          "adid":"0314",
+          "initials":"jel",
+          "name":"Jenna Lee",
+          "extension":"x314",
+          "directPhone":"6467983313",
+          "picture":"sites/default/files/pictures/picture-253.jpg",
+          "desk":"N057_DESK"
+       },
+       {  
+          "adid":"0634",
+          "initials":"jla",
+          "name":"Jennifer Asp",
+          "extension":"x634",
+          "directPhone":"9172105774",
+          "picture":"sites/default/files/pictures/picture-671.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0586",
+          "initials":"jts",
+          "name":"Jennifer Siqueira",
+          "extension":"x586",
+          "directPhone":"6467983319",
+          "picture":"sites/default/files/pictures/picture-527.jpg",
+          "desk":"S030_DESK"
+       },
+       {  
+          "adid":"0604",
+          "initials":"jcv",
+          "name":"Jennifer Villamar",
+          "extension":"x604",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-642.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0447",
+          "initials":"jyl",
+          "name":"Jenny Lin",
+          "extension":"x447",
+          "directPhone":"6463622346",
+          "picture":"sites/default/files/pictures/picture-387.jpg",
+          "desk":"S007_DESK"
+       },
+       {  
+          "adid":"0570",
+          "initials":"jcl",
+          "name":"Jeremy Leonard",
+          "extension":"x570",
+          "directPhone":"6467983307",
+          "picture":"sites/default/files/pictures/picture-509.jpg",
+          "desk":"S084_DESK"
+       },
+       {  
+          "adid":"0530",
+          "initials":"jmf",
+          "name":"Jessica Figueroa",
+          "extension":"x530",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-470.png",
+          "desk":"FD02_DESK"
+       },
+       {  
+          "adid":"0546",
+          "initials":"jaw",
+          "name":"Jiang Wang",
+          "extension":"x546",
+          "directPhone":"6463622377",
+          "picture":"sites/default/files/pictures/picture-495.jpg",
+          "desk":"S018_DESK"
+       },
+       {  
+          "adid":"0495",
+          "initials":"jdd",
+          "name":"Jimmie Drummond",
+          "extension":"x495",
+          "directPhone":"9172106787",
+          "picture":"sites/default/files/pictures/picture-434.jpg",
+          "desk":"S089_DESK"
+       },
+       {  
+          "adid":"0500",
+          "initials":"jat",
+          "name":"Joanie Tom",
+          "extension":"x500",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-438.jpg",
+          "desk":"S027_DESK"
+       },
+       {  
+          "adid":"0307",
+          "initials":"jah",
+          "name":"Joe Hand",
+          "extension":"x307",
+          "directPhone":"9172106864",
+          "picture":"sites/default/files/pictures/picture-246.jpg",
+          "desk":"N077_DESK"
+       },
+       {  
+          "adid":"0258",
+          "initials":"jtb",
+          "name":"John Barrett",
+          "extension":"x258",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-193.jpg",
+          "desk":"S068_DESK"
+       },
+       {  
+          "adid":"0141",
+          "initials":"jcg",
+          "name":"John C. Gulliford",
+          "extension":"x141",
+          "directPhone":"9172106875",
+          "picture":"sites/default/files/pictures/picture-114.jpg",
+          "desk":"N022_DESK"
+       },
+       {  
+          "adid":"0153",
+          "initials":"jdc",
+          "name":"John D. Cerone",
+          "extension":"x153",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-5.jpg",
+          "desk":"N046_DESK"
+       },
+       {  
+          "adid":"0337",
+          "initials":"jpr",
+          "name":"John Paul Rysavy",
+          "extension":"x337",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-276.jpg",
+          "desk":"S076_DESK"
+       },
+       {  
+          "adid":"0528",
+          "initials":"jpj",
+          "name":"JP Jackson",
+          "extension":"x528",
+          "directPhone":"2707799892",
+          "picture":"sites/default/files/pictures/picture-468.jpg",
+          "desk":"N022_DESK"
+       },
+       {  
+          "adid":"0620",
+          "initials":"jdn",
+          "name":"Justin Nguyen",
+          "extension":"x620",
+          "directPhone":"6463622335",
+          "picture":"sites/default/files/pictures/picture-657.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0445",
+          "initials":"jdo",
+          "name":"Justin Oh",
+          "extension":"x445",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-383.jpg",
+          "desk":"S072_DESK"
+       },
+       {  
+          "adid":"0384",
+          "initials":"khb",
+          "name":"Karl Bengzon",
+          "extension":"x384",
+          "directPhone":"6463622323",
+          "picture":"sites/default/files/pictures/picture-300.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0264",
+          "initials":"kac",
+          "name":"Kate Colabella",
+          "extension":"x264",
+          "directPhone":"9148192203",
+          "picture":"sites/default/files/pictures/picture-238.jpg",
+          "desk":"N035_DESK"
+       },
+       {  
+          "adid":"0581",
+          "initials":"kip",
+          "name":"Katerina Petrou",
+          "extension":"x581",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-522.jpg",
+          "desk":"S066_DESK"
+       },
+       {  
+          "adid":"0295",
+          "initials":"kaa",
+          "name":"Katherine Anderson",
+          "extension":"x295",
+          "directPhone":"6463622395",
+          "picture":"sites/default/files/pictures/picture-272.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0523",
+          "initials":"kcb",
+          "name":"Kelly Beckman",
+          "extension":"x523",
+          "directPhone":"6463622350",
+          "picture":"sites/default/files/pictures/picture-462.jpg",
+          "desk":"S025_DESK"
+       },
+       {  
+          "adid":"0504",
+          "initials":"kmh",
+          "name":"Kendra Ho",
+          "extension":"",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-440.jpg",
+          "desk":"N052_DESK"
+       },
+       {  
+          "adid":"0582",
+          "initials":"kfm",
+          "name":"Kieran McCaughey",
+          "extension":"x582",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-523.jpg",
+          "desk":"N017_DESK"
+       },
+       {  
+          "adid":"0559",
+          "initials":"kcc",
+          "name":"Konstantinos Chatzaras",
+          "extension":"x559",
+          "directPhone":"8573167666",
+          "picture":"sites/default/files/pictures/picture-499.jpg",
+          "desk":"N019_DESK"
+       },
+       {  
+          "adid":"0633",
+          "initials":"ksl",
+          "name":"Krystal Soojeong Lee",
+          "extension":"x633",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-670.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0321",
+          "initials":"lrn",
+          "name":"Leah Nanpei",
+          "extension":"x321",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-259.jpg",
+          "desk":"S036_DESK"
+       },
+       {  
+          "adid":"0324",
+          "initials":"lam",
+          "name":"Liz McDonough",
+          "extension":"2128899005",
+          "directPhone":null,
+          "picture":"sites/default/files/pictures/picture-266.jpg",
+          "desk":"S029_DESK"
+       },
+       {  
+          "adid":"0374",
+          "initials":"law",
+          "name":"Lou Wright",
+          "extension":"x374",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-309.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0121",
+          "initials":"lfm",
+          "name":"Luisa Mendez",
+          "extension":"x121",
+          "directPhone":"9172106883",
+          "picture":"sites/default/files/pictures/picture-92.jpg",
+          "desk":"S051_DESK"
+       },
+       {  
+          "adid":"0458",
+          "initials":"map",
+          "name":"Marie-Alice Paul",
+          "extension":"x458",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-382.jpg",
+          "desk":"S059_DESK"
+       },
+       {  
+          "adid":"0543",
+          "initials":"man",
+          "name":"Marija Nikolovski",
+          "extension":"x543",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-483.jpg",
+          "desk":"S050_DESK"
+       },
+       {  
+          "adid":"0576",
+          "initials":"mco",
+          "name":"Mary Overholt",
+          "extension":"x576",
+          "directPhone":"6467983317",
+          "picture":"sites/default/files/pictures/picture-517.jpg",
+          "desk":"S033_DESK"
+       },
+       {  
+          "adid":"0210",
+          "initials":"mck",
+          "name":"Mathew C. Kirkham",
+          "extension":"x210",
+          "directPhone":"9172106887",
+          "picture":"sites/default/files/pictures/picture-119.jpg",
+          "desk":"N044_DESK"
+       },
+       {  
+          "adid":"0637",
+          "initials":"mjk",
+          "name":"Matt Kipilman",
+          "extension":"x637",
+          "directPhone":"9172105773",
+          "picture":"sites/default/files/pictures/picture-682.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0615",
+          "initials":"mjm",
+          "name":"Matthew DeRosier",
+          "extension":"x615",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-653.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0583",
+          "initials":"mjj",
+          "name":"Mazdak Jafarian",
+          "extension":"x583",
+          "directPhone":"9172106792",
+          "picture":"sites/default/files/pictures/picture-524.jpg",
+          "desk":"S092_DESK"
+       },
+       {  
+          "adid":"0600",
+          "initials":"mnp",
+          "name":"Megan Peterson",
+          "extension":"",
+          "directPhone":"3087302972",
+          "picture":"sites/default/files/pictures/picture-638.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0214",
+          "initials":"myf",
+          "name":"Mengyi Fan",
+          "extension":"x214",
+          "directPhone":"9172106796",
+          "picture":"sites/default/files/pictures/picture-153.jpg",
+          "desk":"N034_DESK"
+       },
+       {  
+          "adid":"0625",
+          "initials":"mnh",
+          "name":"Michele Harris",
+          "extension":"x625",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-663.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0289",
+          "initials":"mlf",
+          "name":"Michelle Fowler",
+          "extension":"x289",
+          "directPhone":"3017936426",
+          "picture":"sites/default/files/pictures/picture-216.jpg",
+          "desk":"S021_DESK"
+       },
+       {  
+          "adid":"0514",
+          "initials":"mik",
+          "name":"Michelle Kleinman",
+          "extension":"x514",
+          "directPhone":"9172106793",
+          "picture":"sites/default/files/pictures/picture-453.jpg",
+          "desk":"S022_DESK"
+       },
+       {  
+          "adid":"0515",
+          "initials":"mms",
+          "name":"Michelle Stein",
+          "extension":"x515",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-455.jpg",
+          "desk":"S005_DESK"
+       },
+       {  
+          "adid":"0424",
+          "initials":"mkm",
+          "name":"Miguel Marques",
+          "extension":"x424",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-363.jpg",
+          "desk":"N016_DESK"
+       },
+       {  
+          "adid":"0628",
+          "initials":"mod",
+          "name":"Miles Dugan",
+          "extension":"x628",
+          "directPhone":"6463622395",
+          "picture":"sites/default/files/pictures/picture-666.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0520",
+          "initials":"mmk",
+          "name":"Min Kim",
+          "extension":"x520",
+          "directPhone":"6467707966",
+          "picture":"sites/default/files/pictures/picture-459.jpg",
+          "desk":"N025_DESK"
+       },
+       {  
+          "adid":"0315",
+          "initials":"mys",
+          "name":"Minyoung Song",
+          "extension":"x315",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-254.jpg",
+          "desk":"S005_DESK"
+       },
+       {  
+          "adid":"0114",
+          "initials":"nb",
+          "name":"Nadine Berger",
+          "extension":"x114",
+          "directPhone":"9172106874",
+          "picture":"sites/default/files/pictures/picture-55.jpg",
+          "desk":"S014_DESK"
+       },
+       {  
+          "adid":"0496",
+          "initials":"nbo",
+          "name":"Nadine Oelschlager",
+          "extension":"x496",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-433.jpg",
+          "desk":"N081_DESK"
+       },
+       {  
+          "adid":"0545",
+          "initials":"nvp",
+          "name":"Nicholas Pizzonia",
+          "extension":"x545",
+          "directPhone":"6318316735",
+          "picture":"sites/default/files/pictures/picture-482.jpg",
+          "desk":"S041_DESK"
+       },
+       {  
+          "adid":"0411",
+          "initials":"nts",
+          "name":"Nick Scalco",
+          "extension":"x411",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-344.jpg",
+          "desk":"S080_DESK"
+       },
+       {  
+          "adid":"0145",
+          "initials":"nbm",
+          "name":"Nikolett B. Martin",
+          "extension":"x145",
+          "directPhone":"9172106800",
+          "picture":"sites/default/files/pictures/picture-72.png",
+          "desk":"N058_DESK"
+       },
+       {  
+          "adid":"0624",
+          "initials":"oaa",
+          "name":"Olivia Amorin",
+          "extension":"x624",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-662.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0489",
+          "initials":"ors",
+          "name":"Oralando Samuels",
+          "extension":"x489",
+          "directPhone":"6463622355",
+          "picture":"sites/default/files/pictures/picture-427.jpg",
+          "desk":"S060_DESK"
+       },
+       {  
+          "adid":"0591",
+          "initials":"pwm",
+          "name":"Patrick McIntosh",
+          "extension":"x591",
+          "directPhone":"6463622399",
+          "picture":"sites/default/files/pictures/picture-630.jpg",
+          "desk":"N044_DESK"
+       },
+       {  
+          "adid":"0537",
+          "initials":"pjc",
+          "name":"Paul Chan",
+          "extension":"x537",
+          "directPhone":"9172106825",
+          "picture":"sites/default/files/pictures/picture-476.jpg",
+          "desk":"S029_DESK"
+       },
+       {  
+          "adid":"0253",
+          "initials":"phf",
+          "name":"Paul H. Frederickson",
+          "extension":"x253",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-178.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0607",
+          "initials":"pof",
+          "name":"Pedro Fajardo",
+          "extension":"x607",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-645.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0632",
+          "initials":"psl",
+          "name":"Philip Lisiecki",
+          "extension":"x632",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-669.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0357",
+          "initials":"pin",
+          "name":"Philip Nobel",
+          "extension":"x357",
+          "directPhone":"3475490526",
+          "picture":"sites/default/files/pictures/picture-293.jpg",
+          "desk":"N036_DESK"
+       },
+       {  
+          "adid":"0554",
+          "initials":"pmr",
+          "name":"Philip Richardson",
+          "extension":"x554",
+          "directPhone":"9172106831",
+          "picture":"sites/default/files/pictures/picture-492.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0636",
+          "initials":"pim",
+          "name":"Pimchanok Wangveeramit",
+          "extension":"0",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-672.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0603",
+          "initials":"rml",
+          "name":"Rachel Lexier-Nagle",
+          "extension":"0",
+          "directPhone":"9172106784",
+          "picture":"sites/default/files/pictures/picture-641.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0419",
+          "initials":"rlc",
+          "name":"Rebecca Caillouet",
+          "extension":"x419",
+          "directPhone":"9172106871",
+          "picture":"sites/default/files/pictures/picture-357.jpg",
+          "desk":"N020_DESK"
+       },
+       {  
+          "adid":"0280",
+          "initials":"rrl",
+          "name":"Rebecca Lorenz",
+          "extension":"x280",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-208.jpg",
+          "desk":"N041_DESK"
+       },
+       {  
+          "adid":"0375",
+          "initials":"rwp",
+          "name":"Richard Peterson",
+          "extension":"x375",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-316.jpg",
+          "desk":"S035_DESK"
+       },
+       {  
+          "adid":"0479",
+          "initials":"rbm",
+          "name":"Riley MacPhee",
+          "extension":"x479",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-414.jpg",
+          "desk":"N041_DESK"
+       },
+       {  
+          "adid":"0588",
+          "initials":"rjp",
+          "name":"Rob Page",
+          "extension":"0",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-531.png",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0565",
+          "initials":"rmh",
+          "name":"Robert Hon",
+          "extension":"x565",
+          "directPhone":"5732899002",
+          "picture":"sites/default/files/pictures/picture-503.jpg",
+          "desk":"S039_DESK"
+       },
+       {  
+          "adid":"0351",
+          "initials":"rao",
+          "name":"Roberto Otero",
+          "extension":"x351",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-296.jpg",
+          "desk":"N021_DESK"
+       },
+       {  
+          "adid":"0563",
+          "initials":"rop",
+          "name":"Rosanna Pitarresi",
+          "extension":"x563",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-502.jpg",
+          "desk":"S040_DESK"
+       },
+       {  
+          "adid":"0189",
+          "initials":"rbd",
+          "name":"Ryan Donaghy",
+          "extension":"x189",
+          "directPhone":"9172106784",
+          "picture":"sites/default/files/pictures/picture-142.jpg",
+          "desk":"S065_DESK"
+       },
+       {  
+          "adid":"0228",
+          "initials":"rhl",
+          "name":"Ryan H. Lovett",
+          "extension":"x228",
+          "directPhone":"3108012073",
+          "picture":"sites/default/files/pictures/picture-155.jpg",
+          "desk":"S058_DESK"
+       },
+       {  
+          "adid":"0466",
+          "initials":"saa",
+          "name":"Samantha Anderson",
+          "extension":"x466",
+          "directPhone":"6463622397",
+          "picture":"sites/default/files/pictures/picture-404.jpg",
+          "desk":"N032_DESK"
+       },
+       {  
+          "adid":"0344",
+          "initials":"skk",
+          "name":"Sameer Kumar",
+          "extension":"x344",
+          "directPhone":"6463622336",
+          "picture":"sites/default/files/pictures/picture-290.jpg",
+          "desk":"S063_DESK"
+       },
+       {  
+          "adid":"0286",
+          "initials":"spt",
+          "name":"Scot Teti",
+          "extension":"x286",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-223.jpg",
+          "desk":"N002_DESK"
+       },
+       {  
+          "adid":"0510",
+          "initials":"scc",
+          "name":"Scott Carncross",
+          "extension":"x510",
+          "directPhone":"6467983320",
+          "picture":"sites/default/files/pictures/picture-447.jpg",
+          "desk":"S076_DESK"
+       },
+       {  
+          "adid":"0382",
+          "initials":"spo",
+          "name":"Scott Overall",
+          "extension":"x382",
+          "directPhone":"9172106813",
+          "picture":"sites/default/files/pictures/picture-313.jpg",
+          "desk":"N045_DESK"
+       },
+       {  
+          "adid":"0179",
+          "initials":"esb",
+          "name":"Sean Bailey",
+          "extension":"x179",
+          "directPhone":"9172106785",
+          "picture":"sites/default/files/pictures/picture-61.jpg",
+          "desk":"N013_DESK"
+       },
+       {  
+          "adid":"0577",
+          "initials":"snd",
+          "name":"Seanna Drew",
+          "extension":"x577",
+          "directPhone":"6463622362",
+          "picture":"sites/default/files/pictures/picture-518.jpg",
+          "desk":"S054_DESK"
+       },
+       {  
+          "adid":"0135",
+          "initials":"seh",
+          "name":"Shannon Han",
+          "extension":"x135",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-49.jpg",
+          "desk":null
+       },
+       {  
+          "adid":"0393",
+          "initials":"ssl",
+          "name":"Shuping Liu",
+          "extension":"x393",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-326.jpg",
+          "desk":"N027_DESK"
+       },
+       {  
+          "adid":"0547",
+          "initials":"smv",
+          "name":"Sneha Murali",
+          "extension":"",
+          "directPhone":"6463622358",
+          "picture":"sites/default/files/pictures/picture-488.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0527",
+          "initials":"slw",
+          "name":"Stephanie Walker",
+          "extension":"x527",
+          "directPhone":"6463622324",
+          "picture":"sites/default/files/pictures/picture-467.jpg",
+          "desk":"N060_DESK"
+       },
+       {  
+          "adid":"0390",
+          "initials":"sma",
+          "name":"Stephen Andenmatten",
+          "extension":"x390",
+          "directPhone":"6463622394",
+          "picture":"sites/default/files/pictures/picture-323.jpg",
+          "desk":"N003_DESK"
+       },
+       {  
+          "adid":"0386",
+          "initials":"smp",
+          "name":"Stephen M. Pitman",
+          "extension":"x386",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-28.jpg",
+          "desk":"S011_DESK"
+       },
+       {  
+          "adid":"0174",
+          "initials":"sml",
+          "name":"Steve M. London",
+          "extension":"x174",
+          "directPhone":"9172106788",
+          "picture":"sites/default/files/pictures/picture-31.jpg",
+          "desk":"N048_DESK"
+       },
+       {  
+          "adid":"0178",
+          "initials":"sdg",
+          "name":"Steven D. Garcia",
+          "extension":"x178",
+          "directPhone":"9172106789",
+          "picture":"sites/default/files/pictures/picture-54.jpg",
+          "desk":"S088_DESK"
+       },
+       {  
+          "adid":"0580",
+          "initials":"tyk",
+          "name":"Taichi Kuma",
+          "extension":"x580",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-521.jpg",
+          "desk":"S052_DESK"
+       },
+       {  
+          "adid":"0623",
+          "initials":"tnb",
+          "name":"Tami Banh",
+          "extension":"x623",
+          "directPhone":"3236872180",
+          "picture":"sites/default/files/pictures/picture-661.png",
+          "desk":""
+       },
+       {  
+          "adid":"0531",
+          "initials":"tnm",
+          "name":"Tim Mooney",
+          "extension":"x531",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-472.jpg",
+          "desk":"S004_DESK"
+       },
+       {  
+          "adid":"0155",
+          "initials":"tms",
+          "name":"Todd M. Sigaty",
+          "extension":"x155",
+          "directPhone":"9172106794",
+          "picture":"sites/default/files/pictures/picture-100.jpg",
+          "desk":"N074_DESK"
+       },
+       {  
+          "adid":"0592",
+          "initials":"tad",
+          "name":"Toni Dominici",
+          "extension":"x592",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-629.jpg",
+          "desk":"S013_DESK"
+       },
+       {  
+          "adid":"0619",
+          "initials":"stc",
+          "name":"Troy Chen",
+          "extension":"x619",
+          "directPhone":"6173869898",
+          "picture":"sites/default/files/pictures/picture-660.jpg",
+          "desk":"No Desk"
+       },
+       {  
+          "adid":"0417",
+          "initials":"vms",
+          "name":"Victoire Saby",
+          "extension":"x417",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-360.jpg",
+          "desk":"N023_DESK"
+       },
+       {  
+          "adid":"0418",
+          "initials":"vds",
+          "name":"Violette de la Selle",
+          "extension":"x418",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-356.jpg",
+          "desk":"N004_DESK"
+       },
+       {  
+          "adid":"0276",
+          "initials":"wev",
+          "name":"Whitney Voss",
+          "extension":"x276",
+          "directPhone":"6463622327",
+          "picture":"sites/default/files/pictures/picture-200.jpg",
+          "desk":"S015_DESK"
+       },
+       {  
+          "adid":"0105",
+          "initials":"wws",
+          "name":"William Sharples",
+          "extension":"x105",
+          "directPhone":"9172106805",
+          "picture":"sites/default/files/pictures/picture-24.jpg",
+          "desk":"N064_DESK"
+       },
+       {  
+          "adid":"0522",
+          "initials":"xuz",
+          "name":"Xu Zhang",
+          "extension":"x522",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-461.jpg",
+          "desk":"N003_DESK"
+       },
+       {  
+          "adid":"0594",
+          "initials":"ysk",
+          "name":"Young Sam Kim",
+          "extension":"x594",
+          "directPhone":"6463622405",
+          "picture":"sites/default/files/pictures/picture-632.jpg",
+          "desk":"S058_DESK"
+       },
+       {  
+          "adid":"0590",
+          "initials":"ydt",
+          "name":"Yu Tsuji",
+          "extension":"",
+          "directPhone":"2128899005",
+          "picture":"sites/default/files/pictures/picture-530.jpg",
+          "desk":"S074_DESK"
+       }
+      ]
+    }
+    
